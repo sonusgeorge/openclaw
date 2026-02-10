@@ -18,4 +18,4 @@ services:
     disk:
       name: openclaw-data
       mountPath: /data
-      sizeGB: 0.5
+      sizeGB: 
